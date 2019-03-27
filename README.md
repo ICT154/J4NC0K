@@ -1,2 +1,3 @@
 # J4NC0K
-Installer yang berguna no recode
+installer berguna
+<i>install dulu bahannya</i>
